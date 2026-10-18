@@ -153,7 +153,7 @@ Contributions are welcome.
 **Asmit Kumar Singh**
 
 * GitHub: https://github.com/asmitayush3021
-* LinkedIn: https://linkedin.com/in/asmit-kumar-singh
+* LinkedIn:https://www.linkedin.com/in/asmit-kumar-singh-7445b528b/
 
 ---
 
